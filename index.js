@@ -18,23 +18,17 @@ const languageStrings = {
     "en-GB": {
         translation: {
             FACTS: [
-                "People got really annoyed with me when I farted in the Apple store yesterday. I am sorry but have any windows",
-                "Why is C a better womaniser compared to Java? C doesn't treat them like objects",
-                "I don't see women as objects. I consider each to be in a class of her own.",
-                "What's the difference between a computer and a woman? A computer will accept a 3 and a half inch floppy.",
-                "What is the definition of a programmer? Programmers are machines that turn coffee into code.",
-                "Why did Microsoft name their new search engine bing? Because It's Not Google.",
-                "Your mum is so fat that entering her weight into my 64 bit register caused a buffer overflow.",
-                "Eight bytes walk into a bar. The bartender asks, can I get you anything? 'Yeah', replies the bytes. Make us a double.",
-                "Two bytes meet. The first byte asks, 'are you ill?'. The second byte replies, 'No, just feeling a bit off'",
-                "99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around, 117 little bugs in the code.",
-                "What's the object oriented way to become wealthy? Answer: Inheritance.",
-                "A S.Q.L query goes into the bar, walks up to two tables and asks, 'Can I join you?'",
-                "Why are assembly programmers always soaking wet? Because they work below the sea level.",
-                "I like my women how I like my file systems. Fat and 32.",
-                "What can you hear when you're near an unix shell? The Sea."
+                "The biggest biryani ever made was 13 tonne and was made in New Delhi in 2008.",
+                "The UK is home to around 10000 curry houses and restaurants.",
+                "The tallest poppadum stack in the world stands at a massive 282 poppadoms. The record was set by a chef from the Jali Indian Restaurant in Blackpool.",
+                "Chilli is the most popular spice in the world and can help combat heart attacks and strokes and extends blood coagulation times preventing harmful blood clots.",
+                "Chicken tikka masala is the country’s most popular restaurant dish with one in seven curries sold in the UK being chicken tikka masala.",
+                "More than 250 million pounds is being spent on Indian food every year in the U.K.",
+                "Beer is the best thing to drink with curry.",
+                "The word 'balti' means bucket in Hindi and Bengali.",
+                "The word 'masala' means spice mix.",
             ],
-            SKILL_NAME: "Programming jokes.",
+            SKILL_NAME: "Curry facts",
         },
     }
 };
