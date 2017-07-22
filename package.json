@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/arghasarkar/AlexaCurryFacts/issues"
   },
-  "homepage": "https://github.com/arghasarkar/AlexaCurryFacts#readme"
+  "homepage": "https://github.com/arghasarkar/AlexaCurryFacts#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
 }
