@@ -1,0 +1,32 @@
+{
+  "name": "alexa-curry-facts",
+  "version": "1.0.0",
+  "description": "An Alexa skill which tells the user facts about curries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arghasarkar/AlexaCurryFacts.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Skill",
+    "Curry",
+    "AWS",
+    "Amazon",
+    "Echo",
+    "Echo",
+    "Dot"
+  ],
+  "author": "Argha Sarkar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/arghasarkar/AlexaCurryFacts/issues"
+  },
+  "homepage": "https://github.com/arghasarkar/AlexaCurryFacts#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}
